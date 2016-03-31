@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<REQ-IF xmlns="http://www.omg.org/spec/ReqIF/20110401/reqif.xsd" xmlns:configuration="http://eclipse.org/rmf/pror/toolextensions/1.0">
+  <THE-HEADER>
+    <REQ-IF-HEADER IDENTIFIER="rmf-87d67335-5008-48ce-8c41-09de9252964d">
+      <COMMENT>Created by: LEBKIRI</COMMENT>
+      <CREATION-TIME>2016-03-27T16:24:17.839+01:00</CREATION-TIME>
+      <REQ-IF-TOOL-ID>ProR (http://pror.org)</REQ-IF-TOOL-ID>
+      <REQ-IF-VERSION>1.0</REQ-IF-VERSION>
+      <SOURCE-TOOL-ID>ProR (http://pror.org)</SOURCE-TOOL-ID>
+    </REQ-IF-HEADER>
+  </THE-HEADER>
+  <CORE-CONTENT>
+    <REQ-IF-CONTENT>
+      <DATATYPES>
+        <DATATYPE-DEFINITION-STRING IDENTIFIER="_-Lwr8_QvEeWDOtVGhfJwhg" LAST-CHANGE="2016-03-27T16:24:17.839+01:00" LONG-NAME="T_String32k" MAX-LENGTH="32000"/>
+      </DATATYPES>
+      <SPEC-TYPES>
+        <SPEC-OBJECT-TYPE IDENTIFIER="_-Lwr9PQvEeWDOtVGhfJwhg" LAST-CHANGE="2016-03-27T16:24:17.839+01:00" LONG-NAME="Requirement Type">
+          <SPEC-ATTRIBUTES>
+            <ATTRIBUTE-DEFINITION-STRING IDENTIFIER="_-Lwr9fQvEeWDOtVGhfJwhg" LAST-CHANGE="2016-03-27T16:24:17.839+01:00" LONG-NAME="Description">
+              <TYPE>
+                <DATATYPE-DEFINITION-STRING-REF>_-Lwr8_QvEeWDOtVGhfJwhg</DATATYPE-DEFINITION-STRING-REF>
+              </TYPE>
+            </ATTRIBUTE-DEFINITION-STRING>
+          </SPEC-ATTRIBUTES>
+        </SPEC-OBJECT-TYPE>
+        <SPECIFICATION-TYPE IDENTIFIER="_-Lwr9vQvEeWDOtVGhfJwhg" LAST-CHANGE="2016-03-27T16:24:17.839+01:00" LONG-NAME="Specification Type">
+          <SPEC-ATTRIBUTES>
+            <ATTRIBUTE-DEFINITION-STRING IDENTIFIER="_-Lwr9_QvEeWDOtVGhfJwhg" LAST-CHANGE="2016-03-27T16:24:17.839+01:00" LONG-NAME="Description">
+              <TYPE>
+                <DATATYPE-DEFINITION-STRING-REF>_-Lwr8_QvEeWDOtVGhfJwhg</DATATYPE-DEFINITION-STRING-REF>
+              </TYPE>
+            </ATTRIBUTE-DEFINITION-STRING>
+          </SPEC-ATTRIBUTES>
+        </SPECIFICATION-TYPE>
+      </SPEC-TYPES>
+      <SPEC-OBJECTS>
+        <SPEC-OBJECT IDENTIFIER="_-Lwr-PQvEeWDOtVGhfJwhg" LAST-CHANGE="2016-03-29T17:17:44.906+01:00">
+          <VALUES>
+            <ATTRIBUTE-VALUE-STRING THE-VALUE="La MI doit etre sécurisée ">
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-STRING-REF>_-Lwr9fQvEeWDOtVGhfJwhg</ATTRIBUTE-DEFINITION-STRING-REF>
+              </DEFINITION>
+            </ATTRIBUTE-VALUE-STRING>
+          </VALUES>
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_-Lwr9PQvEeWDOtVGhfJwhg</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_GFvYkPQzEeWDOtVGhfJwhg" LAST-CHANGE="2016-03-27T16:47:07.298+01:00">
+          <VALUES>
+            <ATTRIBUTE-VALUE-STRING THE-VALUE="La MI y doit être sécurisée contre le piratage">
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-STRING-REF>_-Lwr9fQvEeWDOtVGhfJwhg</ATTRIBUTE-DEFINITION-STRING-REF>
+              </DEFINITION>
+            </ATTRIBUTE-VALUE-STRING>
+          </VALUES>
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_-Lwr9PQvEeWDOtVGhfJwhg</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_waaMEPXIEeWf__QGJRoFBw" LAST-CHANGE="2016-03-31T12:43:04.998+01:00">
+          <VALUES>
+            <ATTRIBUTE-VALUE-STRING THE-VALUE="La MI doit pouvoir se défendre des cambrioleurs">
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-STRING-REF>_-Lwr9fQvEeWDOtVGhfJwhg</ATTRIBUTE-DEFINITION-STRING-REF>
+              </DEFINITION>
+            </ATTRIBUTE-VALUE-STRING>
+          </VALUES>
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_-Lwr9PQvEeWDOtVGhfJwhg</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_OwOIEPc2EeW9LoKFzeRblg" LAST-CHANGE="2016-03-31T12:46:35.853+01:00">
+          <VALUES>
+            <ATTRIBUTE-VALUE-STRING THE-VALUE="La MI doit être équipée d'au moins un détecteur de fumée">
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-STRING-REF>_-Lwr9fQvEeWDOtVGhfJwhg</ATTRIBUTE-DEFINITION-STRING-REF>
+              </DEFINITION>
+            </ATTRIBUTE-VALUE-STRING>
+          </VALUES>
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_-Lwr9PQvEeWDOtVGhfJwhg</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_QMgf4Pc2EeW9LoKFzeRblg" LAST-CHANGE="2016-03-31T12:47:26.149+01:00">
+          <VALUES>
+            <ATTRIBUTE-VALUE-STRING THE-VALUE="La MI doit contacter la police en cas d'intrusion">
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-STRING-REF>_-Lwr9fQvEeWDOtVGhfJwhg</ATTRIBUTE-DEFINITION-STRING-REF>
+              </DEFINITION>
+            </ATTRIBUTE-VALUE-STRING>
+          </VALUES>
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_-Lwr9PQvEeWDOtVGhfJwhg</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+        </SPEC-OBJECT>
+        <SPEC-OBJECT IDENTIFIER="_bwwmMPc2EeW9LoKFzeRblg" LAST-CHANGE="2016-03-31T12:48:01.436+01:00">
+          <VALUES>
+            <ATTRIBUTE-VALUE-STRING THE-VALUE="La MI ne doit proposer l'accés qu'à certains utilisateurs">
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-STRING-REF>_-Lwr9fQvEeWDOtVGhfJwhg</ATTRIBUTE-DEFINITION-STRING-REF>
+              </DEFINITION>
+            </ATTRIBUTE-VALUE-STRING>
+          </VALUES>
+          <TYPE>
+            <SPEC-OBJECT-TYPE-REF>_-Lwr9PQvEeWDOtVGhfJwhg</SPEC-OBJECT-TYPE-REF>
+          </TYPE>
+        </SPEC-OBJECT>
+      </SPEC-OBJECTS>
+      <SPECIFICATIONS>
+        <SPECIFICATION IDENTIFIER="_-Lwr-vQvEeWDOtVGhfJwhg" LAST-CHANGE="2016-03-27T16:24:17.839+01:00" LONG-NAME="Specification Document">
+          <VALUES>
+            <ATTRIBUTE-VALUE-STRING THE-VALUE="Requirements Document">
+              <DEFINITION>
+                <ATTRIBUTE-DEFINITION-STRING-REF>_-Lwr9_QvEeWDOtVGhfJwhg</ATTRIBUTE-DEFINITION-STRING-REF>
+              </DEFINITION>
+            </ATTRIBUTE-VALUE-STRING>
+          </VALUES>
+          <TYPE>
+            <SPECIFICATION-TYPE-REF>_-Lwr9vQvEeWDOtVGhfJwhg</SPECIFICATION-TYPE-REF>
+          </TYPE>
+          <CHILDREN>
+            <SPEC-HIERARCHY IDENTIFIER="_-Lwr_PQvEeWDOtVGhfJwhg" LAST-CHANGE="2016-03-27T16:24:17.839+01:00">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_-Lwr-PQvEeWDOtVGhfJwhg</SPEC-OBJECT-REF>
+              </OBJECT>
+              <CHILDREN/>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_waZlAPXIEeWf__QGJRoFBw" LAST-CHANGE="2016-03-29T17:18:42.906+01:00">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_waaMEPXIEeWf__QGJRoFBw</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_GGC6kPQzEeWDOtVGhfJwhg" LAST-CHANGE="2016-03-27T16:46:28.894+01:00">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_GFvYkPQzEeWDOtVGhfJwhg</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_Ow3oUPc2EeW9LoKFzeRblg" LAST-CHANGE="2016-03-31T12:46:35.853+01:00">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_OwOIEPc2EeW9LoKFzeRblg</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_QNRU4Pc2EeW9LoKFzeRblg" LAST-CHANGE="2016-03-31T12:46:46.573+01:00">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_QMgf4Pc2EeW9LoKFzeRblg</SPEC-OBJECT-REF>
+              </OBJECT>
+              <CHILDREN/>
+            </SPEC-HIERARCHY>
+            <SPEC-HIERARCHY IDENTIFIER="_bxEvQPc2EeW9LoKFzeRblg" LAST-CHANGE="2016-03-31T12:48:01.436+01:00">
+              <OBJECT>
+                <SPEC-OBJECT-REF>_bwwmMPc2EeW9LoKFzeRblg</SPEC-OBJECT-REF>
+              </OBJECT>
+            </SPEC-HIERARCHY>
+          </CHILDREN>
+        </SPECIFICATION>
+      </SPECIFICATIONS>
+    </REQ-IF-CONTENT>
+  </CORE-CONTENT>
+  <TOOL-EXTENSIONS>
+    <REQ-IF-TOOL-EXTENSION>
+      <configuration:ProrToolExtension>
+        <configuration:specViewConfigurations>
+          <configuration:ProrSpecViewConfiguration specification="_-Lwr-vQvEeWDOtVGhfJwhg">
+            <configuration:columns>
+              <configuration:Column label="Description" width="307"/>
+              <configuration:Column label="Priorité" width="307"/>
+            </configuration:columns>
+            <configuration:leftHeaderColumn>
+              <configuration:Column label="Lead Header Column" width="30"/>
+            </configuration:leftHeaderColumn>
+          </configuration:ProrSpecViewConfiguration>
+        </configuration:specViewConfigurations>
+        <configuration:generalConfiguration>
+          <configuration:ProrGeneralConfiguration>
+            <configuration:labelConfiguration>
+              <configuration:LabelConfiguration>
+                <defaultLabel>Description</defaultLabel>
+              </configuration:LabelConfiguration>
+            </configuration:labelConfiguration>
+          </configuration:ProrGeneralConfiguration>
+        </configuration:generalConfiguration>
+      </configuration:ProrToolExtension>
+    </REQ-IF-TOOL-EXTENSION>
+  </TOOL-EXTENSIONS>
+</REQ-IF>

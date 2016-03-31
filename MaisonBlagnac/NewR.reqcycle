@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ASCII"?>
+<RequirementSourceData:RequirementsContainer xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:MaisonBlagnac="http://www.polarsys.org/ReqCycle/CustomDataModels/MaisonBlagnac/1" xmlns:RequirementSourceData="http://www.polarsys.org/ReqCycle/RequirementSourceData">
+  <requirements xsi:type="MaisonBlagnac:Priorité" id="La MI doit etre s&#xe9;curis&#xe9;e " text="La MI doit etre s&#xe9;curis&#xe9;e " uri="La MI doit etre s&#xe9;curis&#xe9;e ">
+    <scopes href="../../meta/org.polarsys.reqcycle.utils.configuration/org.polarsys.reqcycle.data.scopes.emfconf#_3Qpp0Pc2EeW9LoKFzeRblg"/>
+  </requirements>
+  <requirements xsi:type="MaisonBlagnac:Priorité" id="La MI doit pouvoir se d&#xe9;fendre des cambrioleurs" text="La MI doit pouvoir se d&#xe9;fendre des cambrioleurs" uri="La MI doit pouvoir se d&#xe9;fendre des cambrioleurs">
+    <scopes href="../../meta/org.polarsys.reqcycle.utils.configuration/org.polarsys.reqcycle.data.scopes.emfconf#_3Qpp0Pc2EeW9LoKFzeRblg"/>
+  </requirements>
+  <requirements xsi:type="MaisonBlagnac:Priorité" id="La MI y doit &#xea;tre s&#xe9;curis&#xe9;e contre le piratage" text="La MI y doit &#xea;tre s&#xe9;curis&#xe9;e contre le piratage" uri="La MI y doit &#xea;tre s&#xe9;curis&#xe9;e contre le piratage">
+    <scopes href="../../meta/org.polarsys.reqcycle.utils.configuration/org.polarsys.reqcycle.data.scopes.emfconf#_3Qpp0Pc2EeW9LoKFzeRblg"/>
+  </requirements>
+  <requirements xsi:type="MaisonBlagnac:Priorité" id="La MI doit &#xea;tre &#xe9;quip&#xe9;e d'au moins un d&#xe9;tecteur de fum&#xe9;e" text="La MI doit &#xea;tre &#xe9;quip&#xe9;e d'au moins un d&#xe9;tecteur de fum&#xe9;e" uri="La MI doit &#xea;tre &#xe9;quip&#xe9;e d'au moins un d&#xe9;tecteur de fum&#xe9;e">
+    <scopes href="../../meta/org.polarsys.reqcycle.utils.configuration/org.polarsys.reqcycle.data.scopes.emfconf#_3Qpp0Pc2EeW9LoKFzeRblg"/>
+  </requirements>
+  <requirements xsi:type="MaisonBlagnac:Priorité" id="La MI doit contacter la police en cas d'intrusion" text="La MI doit contacter la police en cas d'intrusion" uri="La MI doit contacter la police en cas d'intrusion">
+    <scopes href="../../meta/org.polarsys.reqcycle.utils.configuration/org.polarsys.reqcycle.data.scopes.emfconf#_3Qpp0Pc2EeW9LoKFzeRblg"/>
+  </requirements>
+  <requirements xsi:type="MaisonBlagnac:Priorité" id="La MI ne doit proposer l'acc&#xe9;s qu'&#xe0; certains utilisateurs" text="La MI ne doit proposer l'acc&#xe9;s qu'&#xe0; certains utilisateurs" uri="La MI ne doit proposer l'acc&#xe9;s qu'&#xe0; certains utilisateurs">
+    <scopes href="../../meta/org.polarsys.reqcycle.utils.configuration/org.polarsys.reqcycle.data.scopes.emfconf#_3Qpp0Pc2EeW9LoKFzeRblg"/>
+  </requirements>
+</RequirementSourceData:RequirementsContainer>
